@@ -23,7 +23,7 @@ This project presents a **Power BI dashboard** for UrbanCart’s sales analysis,
 - **DAX** – Measures and calculations  
 
 ## Dashboard Preview
-![UrbanCart Sales Analytics Dashboard](./path-to-dashboard-image.png)
+![UrbanCart Sales Analytics Dashboard](./Images/Screenshot 2025-08-24 221250.png)
 
 ---
 
